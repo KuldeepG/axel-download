@@ -22,5 +22,5 @@ After compilation the node module will be in build/Release folder.
 ```
 var axel = require('./build/Release/axelBinding')
 
-axel.download(URL_TO_DOWNLOAD)
+axel.download({url: URL_TO_DOWNLOAD})
 ```
