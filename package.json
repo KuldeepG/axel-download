@@ -1,0 +1,22 @@
+{
+  "name": "axel-download",
+  "author": "Kuldeep Ghogre - http://github.com/KuldeepG",
+  "contributors": [],
+  "description": "axel bindings for v8 javascript engine",
+  "version": "0.0.1",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KuldeepG/axel-download.git"
+  },
+  "bugs": {
+    "mail": "kuldeep.ghogre@gmail.com",
+    "url": "https://github.com/KuldeepG/axel-download/issues"
+  },
+  "engines": {
+    "node": ">=0.8.23"
+  },
+  "dependencies": {
+    "node-gyp": "0.10.10"
+  }
+}
